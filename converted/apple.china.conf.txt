@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]quic://223.5.5.5  tls://223.6.6.6
 [/dd-cdn.origin-apple.com.akadns.net/]quic://223.5.5.5  tls://223.6.6.6
 [/dejavu.apple.com/]quic://223.5.5.5  tls://223.6.6.6
+[/devimages-cdn.apple.com/]quic://223.5.5.5  tls://223.6.6.6
 [/devstreaming-cdn.apple.com/]quic://223.5.5.5  tls://223.6.6.6
 [/download.developer.apple.com/]quic://223.5.5.5  tls://223.6.6.6
 [/experiments.apple.com/]quic://223.5.5.5  tls://223.6.6.6
